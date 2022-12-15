@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Film Kita</string>
+    <string name="more_txtDetails">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="btn_more">Selengkapnya</string>
+    <string name="TitleMain1">Bermain Game Kesukaan anda disini</string>
+    <string name="TitleMain2">Harga Terjangkau dan Pembayaran Mudah</string>
+    <string name="TitleMain3">Memiliki Rekomendasi Pilihan Game Terbaik</string>
+    <string name="infobarber1">Kami Memiliki Koneksi antara para gamer pilihan</string>
+    <string name="infobarber2">Kami Memiliki Fitur Pembayaran Metaverse yang sangat mudah digunakan</string>
+    <string name="infobarber3">Kami Memiliki Fitur Koneksi para gamer pilihan kami</string>
+    <string name="title_activity_chat_order">Chat_order</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

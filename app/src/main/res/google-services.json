@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29852635605",
+    "project_id": "barba-ac5a5",
+    "storage_bucket": "barba-ac5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29852635605:android:96711ab047473b806c2d5c",
+        "android_client_info": {
+          "package_name": "com.barbaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29852635605-t6jifedba9u11vs31j1m16qi4qb3fcv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszpkLJ1qMM-bRW5FrBHY97Tgs3xArhSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29852635605-t6jifedba9u11vs31j1m16qi4qb3fcv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

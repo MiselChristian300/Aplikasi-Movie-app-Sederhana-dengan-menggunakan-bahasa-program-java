@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apps log/app/src/main/res/drawable/bacgroundprogres_seting.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/background_4.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/cstmline_btns.xml" value="0.1245" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/custom_edittxt.xml" value="0.1555" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/custom_input.xml" value="0.1355" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/gradient_bg.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_account_balance_wallet_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_collections_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_discount_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_mark_chat_unread_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1415" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_shopping_basket_24.xml" value="0.1015" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_baseline_stars_24.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_epiclogosvg.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_membersiconpng_removebg_preview.xml" value="0.1015" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/ic_sisorsicons2svg.xml" value="0.1" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/search_bg.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/drawable/shape_custombtns_home.xml" value="0.129" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/activity_chat_order.xml" value="0.14666666666666667" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/activity_detail__moviess.xml" value="0.22" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/activity_main_activity2s.xml" value="0.22" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/activity_order.xml" value="0.22" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/activity_seting_profile.xml" value="0.22" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/fragment_feagmentlayout_2.xml" value="0.16983695652173914" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/fragment_fragmentlayout_1.xml" value="0.12001811594202899" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/item_cast.xml" value="0.12001811594202899" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/itm_movie.xml" value="0.17552083333333332" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/ordercnt.xml" value="0.17552083333333332" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/pop_ui.xml" value="0.16983695652173914" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/popup_2barberhair.xml" value="0.14666666666666667" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/screenonbord.xml" value="0.22" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/slider_layouttmain.xml" value="0.22" />
+        <entry key="..\:/Apps log/app/src/main/res/layout/sliders_itm.xml" value="0.1" />
+        <entry key="..\:/Apps log/app/src/main/res/menu/btm_navigation.xml" value="0.18425925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
